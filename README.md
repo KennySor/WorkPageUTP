@@ -44,4 +44,4 @@ El sitio incluye:
 
 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/techcell-store.git
+git clone https://github.com/KennySor/WorkPageUTP.git
